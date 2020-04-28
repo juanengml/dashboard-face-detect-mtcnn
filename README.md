@@ -12,3 +12,10 @@ $ source env/bin/activate
 
 ### RODE A APLICAÇÃO
 (env) $ python app.py 
+
+![](https://media.giphy.com/media/Vhhat1Y61kdapNSmph/giphy.gif)
+
+
+### Execução
+
+![](https://media.giphy.com/media/kyuOZGTdZZGEhrQQkZ/giphy.gif)
