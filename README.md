@@ -1,4 +1,4 @@
-# dashboard-face-detect-mtcnn
+# Dashboard-face-detect-mtcnn
 Usando MTCNN e Flask para detecção de Faces com Deep Learning
 
 #### CRIAR UM AMBIENTE VIRTUAL
@@ -15,6 +15,7 @@ $ source env/bin/activate
 
 ![](https://media.giphy.com/media/Vhhat1Y61kdapNSmph/giphy.gif)
 
+---
 
 ### Execução
 
